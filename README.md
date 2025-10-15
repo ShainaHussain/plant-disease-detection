@@ -27,9 +27,6 @@ PlantVillage Dataset - 54,000+ images of healthy and diseased plant leaves
 *Part of my 12-week journey to become an ML Engineer*
 ```
 
-### Step 4: Create Project Folder (5 minutes)
-On your computer:
-```
 plant-disease-detection/
 ├── data/               (empty for now)
 ├── notebooks/          (for jupyter notebooks)
